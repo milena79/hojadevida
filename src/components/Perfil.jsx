@@ -1,3 +1,4 @@
+import React from 'react';
 const PERFIL = () => {
     return (
       <section className="section">

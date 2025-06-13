@@ -1,3 +1,4 @@
+import React from 'react';  // Necesario para React 17 y algunas configuraciones
 import './App.css';
 import Encabezado from './components/Encabezado';
 import Perfil from './components/Perfil';

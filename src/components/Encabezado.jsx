@@ -1,6 +1,6 @@
 // eslint-disable-next-line react-refresh/only-export-components
 import foto from '../assets/foto.jpeg';
-
+import React from 'react';
 
 const Encabezado = () => {
   return (

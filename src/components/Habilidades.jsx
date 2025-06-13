@@ -1,3 +1,4 @@
+import React from 'react';
 const Habilidades = () => {
     const habilidad = [
       "Responsabilidad y compromiso",
